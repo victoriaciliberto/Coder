@@ -1,0 +1,103 @@
+#page-top {
+background-color: gray;
+}
+
+.tituloprincipal {
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Cutive Mono', monospace;
+}
+
+#carouselExample {
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+.parrafo1 {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.destino {
+    list-style: none;
+    text-align: center;
+}
+
+.mapa {
+    text-decoration: none;
+    color: black;
+}
+
+
+.tituloprincipal {
+    margin-top: 70px;
+    text-align: center;
+    font-family: 'Cutive Mono', monospace;
+    border: 2px solid black
+}
+
+.quiensoy {
+font-size: 30px;
+margin-top: 20px;
+
+}
+
+.fotomia {
+  width: 30%;
+  margin-left: 35%;
+  
+}
+
+.botones {
+    display: flex;
+    margin-left: 60%;
+    margin-top: 20px;
+}
+
+.botones1 {
+    margin-top: 20px;
+}
+
+.navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    font-family: 'Cutive Mono', monospace;
+    
+}
+
+
+.enlaces{
+    color: black;
+    font-style:inherit;
+    background-color: #a1cda8;
+    width: 150px;
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+    position: sticky;
+    list-style: none;       
+}
+
+.contenido{
+    color: wheat;
+    font-size: 150%;
+
+    width: 400px; 
+    padding: 10px 10px;
+    margin: 30px 30px;
+}
+
+.container-lg {
+    background-color: lightblue;
+    text-align: center;
+
+
+}
+.titulo {
+    text-decoration: underline;
+}
+
+.col-lg-4 {
+    border: 2px solid black
+}
