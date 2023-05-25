@@ -91,7 +91,10 @@ margin-top: 20px;
 .container-lg {
     background-color: lightblue;
     text-align: center;
-
+}
+.containerviaje {
+    background-color: violet;
+}
 
 }
 .titulo {
