@@ -67,9 +67,8 @@
       top: 0;
       font-family: 'Cutive Mono', monospace;
       
-  }
-  
-  
+    }
+   
   .enlaces{
       color: black;
       font-style:inherit;
@@ -79,7 +78,7 @@
       text-align: center;
       position: sticky;
       list-style: none;       
-  }
+     }
   
   .contenido{
       color: wheat;
@@ -88,65 +87,59 @@
       width: 400px; 
       padding: 10px 10px;
       margin: 30px 30px;
-  }
+     }
   
   .container-lg {
       background-color: lightblue;
       text-align: center;
-  }
+    }
   .containerviaje {
       background-color: violet;
-  }
+    }
   
   .titulo {
       text-decoration: underline;
-  }
+    }
   
   .col-lg-4 {
       border: 2px solid black
-  }
+    } 
 
 .parrafo1   {
     margin-top: 70px;
     text-align: center;
     font-family: 'Cutive Mono', monospace;
     border: 2px solid black
-}
-
-H1 {
-    position: absolute;
-    top: 200px;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    font-family: 'Cutive Mono', monospace;
-    text-decoration: underline px;
-    text-decoration: double;
-    border: 2px solid black
     }
 
-    H2 {
+    h1 {
         position: absolute;
-        top: 350px;
+        top: 150px;
         left: 0;
         width: 100%;
         text-align: center;
         text-decoration: underline px;
         text-decoration: double;
+        background-color: white;
+        font-family: 'Bacasime Antique', serif;
+        font-family: 'Montserrat', sans-serif;
         font-family: 'Open Sans', sans-serif;
+        font-family: 'Roboto Mono', monospace;
         }
 
 .Intro {
     font-size: 150%;
     position: absolute;
-    top: 500px;
+    top: 350px;
     left: 10%;
     width: 80%;
     text-align: center;
+    font-family: 'Bacasime Antique', serif;
+    font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     background-color: white;
-    }
-
+        }
 
 .foto1 {
     width: 100%;
