@@ -1,5 +1,5 @@
 #page-top {
-  background-color: gray;
+  background-color: rgb(207, 193, 193);
   }
 
 #header {
@@ -11,15 +11,7 @@
       width: 40%;
       margin-left: 30%;
       margin-top: 2%;
-
-   
-  }
-
-  .parrafo1 {
-      text-align: center;
-      margin-top: 50px;
-  
-  }
+     }
   
   .destino {
       list-style: none;
@@ -105,32 +97,37 @@
       border: 2px solid black
     } 
 
-.parrafo1   {
-    margin-top: 70px;
+#footer {
     text-align: center;
     font-family: 'Cutive Mono', monospace;
-    border: 2px solid black
+    border: 2px solid black;
+    background-color: rgba(255, 255, 255, 0.637);
+    text-decoration: underline;
+
+bottom:0px;
+
+
     }
 
     h1 {
         position: absolute;
-        top: 150px;
+        top: 110px;
         left: 0;
         width: 100%;
         text-align: center;
         text-decoration: underline px;
         text-decoration: double;
-        background-color: white;
+
         font-family: 'Bacasime Antique', serif;
         font-family: 'Montserrat', sans-serif;
         font-family: 'Open Sans', sans-serif;
         font-family: 'Roboto Mono', monospace;
-        }
+      }
 
 .Intro {
     font-size: 150%;
     position: absolute;
-    top: 350px;
+    top: 280px;
     left: 10%;
     width: 80%;
     text-align: center;
@@ -139,10 +136,32 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto Mono', monospace;
     background-color: white;
-        }
+      }
+
+.Intro1 {
+  top: 450px;
+    }
+
+.Intro2 {
+  top: 650px;
+    }    
 
 .foto1 {
     width: 100%;
-    height: 100%;
+    height: 70%;
     opacity: .4;
     }
+
+.Flex {
+display: flex;
+list-style: none;
+justify-content: center;
+
+    }
+
+.rs {
+width: 25px;
+height: 25px;
+    }
+
+
