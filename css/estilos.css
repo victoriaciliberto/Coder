@@ -7,43 +7,24 @@
     z-index: 99;
   }
  
-  #carouselExample {
+#carouselExample {
       width: 40%;
       margin-left: 30%;
       margin-top: 2%;
      }
   
-  .destino {
+.destino {
       list-style: none;
       text-align: center;
   }
   
-  .mapa {
-      text-decoration: none;
-      color: black;
-  }
-  
-  
-  .tituloprincipal {
-      margin-top: 70px;
-      text-align: center;
-      font-family: 'Cutive Mono', monospace;
-      border: 2px solid black
-  }
-  
-  .quiensoy {
+.quiensoy {
   font-size: 30px;
   margin-top: 20px;
   
   }
   
-  .fotomia {
-    width: 30%;
-    margin-left: 35%;
-    
-  }
-  
-  .botones {
+.botones {
       display: flex;
       margin-left: 60%;
       margin-top: 20px;
@@ -81,21 +62,8 @@
       margin: 30px 30px;
      }
   
-  .container-lg {
-      background-color: lightblue;
-      text-align: center;
-    }
-  .containerviaje {
-      background-color: violet;
-    }
-  
-  .titulo {
-      text-decoration: underline;
-    }
-  
-  .col-lg-4 {
-      border: 2px solid black
-    } 
+
+
 
 #footer {
     text-align: center;
@@ -103,13 +71,9 @@
     border: 2px solid black;
     background-color: rgba(255, 255, 255, 0.637);
     text-decoration: underline;
-
-bottom:0px;
-
-
     }
 
-    h1 {
+h1 {
         position: absolute;
         top: 110px;
         left: 0;
@@ -146,6 +110,18 @@ bottom:0px;
   top: 650px;
     }    
 
+.Intro3 {
+      top: 5px;
+      position: relative;
+      font-size: 110%;
+        }  
+
+.Intro4 {
+          top: 15px;
+          position: relative;
+          font-size: 110%;
+            }    
+
 .foto1 {
     width: 100%;
     height: 70%;
@@ -164,4 +140,59 @@ width: 25px;
 height: 25px;
     }
 
+iframe {
+margin-top: 200px;
+margin-left: 400px;
+      }
+
+.mapa {
+  display: flex;
+  margin-top: 80px;
+  margin-left: 480px;
+  margin-bottom: 100px;
+      }
+
+    
+
+h2 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  text-decoration: underline px;
+  text-decoration: double;
+  font-family: 'Bacasime Antique', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+      }
+
+.container-lg {
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Bacasime Antique', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+      }
+  
+.titulo {
+  text-decoration: underline;
+  font-size: 150%;
+      }
+
+.col-lg-4 {
+  font-size: 15px;
+  position: relative;
+  border: 2px solid black
+     } 
+
+.containerviaje {
+   margin-top: 200px;
+   text-align: center;
+   font-family: 'Bacasime Antique', serif;
+   font-family: 'Montserrat', sans-serif;
+   font-family: 'Open Sans', sans-serif;
+   font-family: 'Roboto Mono', monospace;
+      }
 
